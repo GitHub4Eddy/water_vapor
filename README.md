@@ -1,6 +1,6 @@
 # water_vapor
 
-This QuickApp gives access to real-time water vapor level of any location in Asia, Europe, North America, Australia and New Zealand by latitude and longitude. 
+This QuickApp (for the Fibaro Homecenter 3) gives access to real-time water vapor level of any location in Asia, Europe, North America, Australia and New Zealand by latitude and longitude. 
 
 
 IMPORTANT
