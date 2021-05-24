@@ -8,6 +8,9 @@ IMPORTANT
 - The API is free up to 100 API calls/day, with zero limitations on country, access to air quality, pollen, weather and fire data and dedicated support 
 
 
+Version 0.3 (24th May 2021)
+- Changed handling in case exhausted daily usage limit 
+
 Version 0.2 (21th May 2021)
 - Tested
 
